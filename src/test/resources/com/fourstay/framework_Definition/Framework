@@ -1,0 +1,25 @@
+Automation Framework
+==============================
+1. Java ==> programming language of the framework. It is developed on java pl.
+
+2. Maven ==> build and dependency management tool
+
+3. Selenium ==> Library that interacts our java with the browser, talk to the website
+
+4. JUnit ==> assertions, running tests
+
+5. Cucumber ==> BDD testing tool, writing tests, running tests, reporting tests, building test suites
+
+6. Jenkins ==> Continous Integration tool
+
+7. Git ==> Source code management
+
+
+
+
+
+
+ TestNG Automation Framework ==> more annotations, parallel testing, multi btowser testing, parallel
+								   multi browser testing.
+								   
+ 
