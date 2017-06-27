@@ -133,5 +133,9 @@ public class HomePage {
 	public void open(){
 		Driver.getInstance().get(Config.getProperty("url"));
 	}
+	
+	public void ok(){
+		System.out.println("Alright then");
+	}
 
 }
